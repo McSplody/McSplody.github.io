@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test post"
+date:   2017-03-02 22:26:00
+categories: jekyll update
+---
+~~Testing markdown~~
+**Test 2**
+__test 3__
+
+spaces are strange in markdown...
